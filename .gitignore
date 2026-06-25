@@ -1,0 +1,8 @@
+.pio/
+.vscode/
+.idea/
+*.bin
+*.elf
+*.pioenvs/
+.DS_Store
+node_modules/
